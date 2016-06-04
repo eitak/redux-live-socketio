@@ -1,0 +1,6 @@
+.idea
+node_modules
+/index.js
+/ClientCommunicator.js
+/ServerCommunicator.js
+/lib
